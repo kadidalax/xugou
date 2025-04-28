@@ -9,8 +9,8 @@ crons = ["* * * * *"]
 
 [[d1_databases]]
 binding = "DB"
-database_name = "monitor"
-database_id = "7ec0d2ba-6f40-4bc0-9ae8-2e539f1aefe3"
+database_name = "xugou_db"
+database_id = "495daec4-5c84-4788-852a-e75506cb460a"
 
 [version_metadata]
 binding = "CF_VERSION_METADATA"
