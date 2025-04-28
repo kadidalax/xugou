@@ -10,7 +10,7 @@ crons = ["* * * * *"]
 [[d1_databases]]
 binding = "DB"
 database_name = "monitor"
-database_id = "c3f3ffaf-a8d2-4fbf-ab7c-bc1a3b4f6e15"
+database_id = "7ec0d2ba-6f40-4bc0-9ae8-2e539f1aefe3"
 
 [version_metadata]
 binding = "CF_VERSION_METADATA"
